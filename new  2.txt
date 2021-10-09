@@ -1,0 +1,32 @@
+
+
+
+<img src="./imagens/di_nanda.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/lucilene.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/primavera.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/original.jpg" alt="Notícia" width="215" height="111" border="0" />	
+
+
+
+
+
+<img src="./imagens/loja_savello.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/via_beleza.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/supermercado_fabiana.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/fique_frio.jpg" alt="Notícia" width="215" height="111" border="0" />
+
+
+
+
+
+<img src="./imagens/mariano.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/anahy.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/ll.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/silvimar.jpg" alt="Notícia" width="215" height="111" border="0" />
+
+
+
+
+<img src="./imagens/mundial.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/cleidi.jpg" alt="Notícia" width="215" height="111" border="0" />
+<img src="./imagens/ciely.jpg" alt="Notícia" width="215" height="111" border="0" />
